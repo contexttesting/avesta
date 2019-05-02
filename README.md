@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/avesta.svg)](https://npmjs.org/package/avesta)
 
-<img src="doc/avesta.jpg" align="left">
+<img src="doc/avesta.jpg" align="right">
 
 `avesta` is to Read Zoroastrian Avesta Via CLI And Track Progress.
 
