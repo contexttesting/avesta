@@ -40,6 +40,19 @@
       "skipFiles": [
         "<node_internals>/**/*.js"
       ]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch Parse",
+      "program": "${workspaceFolder}/node_modules/.bin/alanode",
+      "console": "integratedTerminal",
+      "args": [
+        "parse"
+      ],
+      "skipFiles": [
+        "<node_internals>/**/*.js"
+      ]
     }
   ]
 }

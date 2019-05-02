@@ -1,3 +1,8 @@
+// ₀₁₂₃₄₅₆₇₈₉₊₋₌₍₎ₐₑₒₓ
+// ⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻⁼⁽⁾ⁿⁱ
+
+// http://www.avesta.org/yasna/index.html
+
 import { debuglog } from 'util'
 
 const LOG = debuglog('avesta')
