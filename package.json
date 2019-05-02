@@ -11,6 +11,7 @@
     "mask": "yarn t test/mask",
     "test-build": "ALAMODE_ENV=test-build yarn test",
     "lint": "eslint .",
+    "dev": "alanode src/bin/avesta",
     "doc": "NODE_DEBUG=doc doc -o README.md",
     "b": "alamode src -o build -s",
     "d": "yarn-s d1 externs",

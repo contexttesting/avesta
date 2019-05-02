@@ -1,10 +1,10 @@
 <types namespace="_avesta">
   <type name="Config" desc="Options for the program.">
-    <prop boolean name="shouldRun" default="true">
-      A boolean option.
+    <prop name="chapter" number>
+      The chapter to read.
     </prop>
-    <prop string name="text">
-      A text to return.
+    <prop opt number name="paragraph">
+      The paragraph to read.
     </prop>
   </type>
 </types>

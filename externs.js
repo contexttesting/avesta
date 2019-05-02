@@ -1,5 +1,8 @@
 /* typal types/index.xml */
+/** @const */
+var _avesta = {}
 /**
- * @typedef {{ shouldRun: (boolean|undefined), text: string }}
+ * Options for the program.
+ * @typedef {{ chapter: number, paragraph: (number|undefined) }}
  */
-var Config
+_avesta.Config
