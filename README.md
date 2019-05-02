@@ -248,6 +248,8 @@ __<a name="type-_avestaconfig">`_avesta.Config`</a>__: Options for the program.
 
 ## Copyright
 
+The text was made available via [http://avesta.org](http://avesta.org) made by [Joseph H. Peterson](https://twitter.com/twilit_grotto?lang=en). Translated by L. H. Mills (from Sacred Books of the East, American Edition, 1898) except as noted.
+
 
   (c) [Context Testing](https://contexttesting.com) 2019
 
