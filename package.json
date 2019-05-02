@@ -1,6 +1,6 @@
 {
   "name": "avesta",
-  "version": "0.0.0-pre",
+  "version": "0.0.0",
   "description": "Read Zoroastrian Avesta Via CLI And Track Progress.",
   "main": "build/index.js",
   "module": "src/index.js",
