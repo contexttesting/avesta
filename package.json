@@ -32,7 +32,10 @@
     "url": "git://github.com/contexttesting/avesta.git"
   },
   "keywords": [
-    "avesta"
+    "avesta",
+    "context testing",
+    "zoroaster",
+    "testing"
   ],
   "author": "Anton <anton@adc.sh>",
   "license": "MIT",
