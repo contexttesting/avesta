@@ -8,18 +8,19 @@ import avesta from 'avesta'
 
 %~%
 
-```## avesta
+```## avesta => string
 [
-  ["arg1", "string"],
-  ["arg2?", "boolean"]
+  ["chapter?", "number"],
+  ["paragraph", "number"]
 ]
 ```
 
-Call this function to get the result you want.
-
-%TYPEDEF types/index.xml%
+Returns the required chapter from Avesta.
 
 %EXAMPLE: example, ../src => avesta%
 %FORK example%
+
+%TYPEDEF types/index.xml%
+
 
 %~%

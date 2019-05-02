@@ -23,7 +23,8 @@
   "files": [
     "build",
     "src",
-    "externs.js"
+    "externs.js",
+    "yasnas"
   ],
   "externs": "externs.js",
   "repository": {
