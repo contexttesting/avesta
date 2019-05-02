@@ -1,29 +1,3 @@
-const { debuglog } = require('util');
+const $_lib = require('./lib');
 
-const LOG = debuglog('avesta')
-
-/**
- * Read Zoroastrian Avesta Via CLI And Track Progress.
- * @param {Config} [config] Options for the program.
- * @param {boolean} [config.shouldRun=true] A boolean option. Default `true`.
- * @param {string} config.text A text to return.
- */
-               async function avesta(config = {}) {
-  const {
-    shouldRun = true,
-    text,
-  } = config
-  if (!shouldRun) return
-  LOG('avesta called with %s', text)
-  return text
-}
-
-/* documentary types/index.xml */
-/**
- * @typedef {Object} Config Options for the program.
- * @prop {boolean} [shouldRun=true] A boolean option. Default `true`.
- * @prop {string} text A text to return.
- */
-
-
-module.exports = avesta
+module.exports = $_lib

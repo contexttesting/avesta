@@ -43,8 +43,8 @@ const res = avesta({
 console.log(res)
 ```
 ```
-<h4>PRESENTATION OF OFFERINGS BY THE PRIEST WITH THE OBJECT OF PROPITIATION
-NAMED.</h4>
+PRESENTATION OF OFFERINGS BY THE PRIEST WITH THE OBJECT OF PROPITIATION
+NAMED.
 
 1. With a complete and sacred offering [Ashi] I offer and I give
 this meat-offering, and (with it) Haurvatat (who guards the water),
